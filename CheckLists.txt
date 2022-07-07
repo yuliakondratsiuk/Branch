@@ -1,0 +1,40 @@
+Color and Appearance 
+
+Do the hyperlink colors match the standard color that is universally used?
+Does the field background display in the correct color?
+Does the field prompt display in the right color?
+Does the screen and field colors display correctly for non-editable mode?
+Does the site use standard link colors?
+Do all the buttons display in standard format and size?
+Does the general screen background displayed in the planned color?
+Do the page background colors display in a distraction-free tone?
+
+Images 
+
+Check for the alignment of images in the web application.
+Are the images throughout the application optimized for size?
+Are other graphics in the application optimized for quick downloads?
+Are all the button graphics matching throughout the application?
+Does text wrap properly around pictures/graphics?
+
+Navigation 
+
+Does the screen navigation work as intended?
+Does a scrollbar appear wherever scrolling is required?
+Does the Tab Order specified on the screen goes in sequence from Top Left to bottom right (navigation done by pressing the tab key)? 
+Is there a link to homepage on every single page? 
+On loading, does a page allows tab focus display on the first editable field?
+When an error message occurs, does the focus return to the field in error when the user cancels it? 
+
+Other useful factors 
+
+Are all the field prompts spell-checked?
+Are fonts readable by the users?
+Check if the text in command button & option box typed in full forms and not as abbreviations. 
+Can a user run the system without any hassle? 
+Do pages print legibly without cutting off text? 
+Does the site convey a clear sense of its intended audience? 
+Does the site have a consistent and clearly recognizable “look-&-feel”?
+
+cheaclist from https://nmgtechnologies.com/blog/web-application-testing-checklist.html
+
